@@ -1,4 +1,5 @@
 # Final-assigment
+![galaxy](https://github.com/user-attachments/assets/1566b685-1992-4e98-bafe-e534fd2872ef)
 
 ![star dust](https://github.com/user-attachments/assets/274d4d75-1ba0-4628-bab1-aeb22ab092ef)
 ![mars](https://github.com/user-attachments/assets/d4f0eaaf-a4f7-4c22-af1a-17742bb4ce81)
